@@ -286,6 +286,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Action
 * [Oolite](https://github.com/OoliteProject/oolite) - Oolite is an open world space opera based on Elite
 * [OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake.
+* [pac-person-freespace](https://github.com/miheslkivi/pac-person-freespace) - Driving and shooting game that gets some inspiration from Pac-man.
 
 ## Arcade
 * [Alieanum](https://github.com/Kaev/Alieanum) - My Ludum Dare 33 entry. A kinda bullet hell shooter.
@@ -407,7 +408,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
 
 ## Racing
-* [pac-person-freespace](https://github.com/miheslkivi/pac-person-freespace) - Driving and shooting game that gets some inspiration from Pac-man.
+
 * [Stunt Rally](https://github.com/stuntrally/stuntrally) - Rally game with Track Editor, based on VDrift and OGRE.
 * [SuperTuxKart](https://github.com/supertuxkart/stk-code) - Free 3D kart racing game featuring open source mascots.
 * [Yorg](https://github.com/cflavio/yorg) - Yorg's an Open Racing Game, free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux. [Homepage](http://www.ya2.it/)
